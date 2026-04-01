@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_gonix_no_watermark.png" width="350" alt="Gonix OS Logo">
+  <img src="gonix_logo-os.png" width="350" alt="Gonix OS Logo">
 </p>
 # 💻 Gonix OS - Micro Kernel x86
 
