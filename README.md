@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="<img width="1408" height="768" alt="logo_gonix_no_watermark" src="https://github.com/user-attachments/assets/06f5eb9c-0889-4810-a030-c9fa8a38d73d" />
-width="350" alt="Gonix OS Logo">
+  <img src="logo_gonix_no_watermark.png" width="350" alt="Gonix OS Logo">
 </p>
-
 # 💻 Gonix OS - Micro Kernel x86
 
 O **Gonix** é um micro sistema operativo independente (Bare-Metal), desenvolvido de raiz para a arquitetura **x86**. O objetivo deste projeto é explorar o funcionamento interno do hardware, gestão de memória e interatividade direta com o CPU.
