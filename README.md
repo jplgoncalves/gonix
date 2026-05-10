@@ -6,6 +6,7 @@
 
 O **Gonix** é um micro sistema operativo independente (Bare-Metal), desenvolvido de raiz para a arquitetura **x86**. O objetivo deste projeto é explorar o funcionamento interno do hardware, gestão de memória e interatividade direta com o CPU.
 
+<img width="1408" height="768" alt="img.png" src="https://github.com/user-attachments/assets/e35158c3-2d22-4b2f-924b-0fa77e4d4786" />
 ---
 
 ## 🚀 Funcionalidades Atuais
